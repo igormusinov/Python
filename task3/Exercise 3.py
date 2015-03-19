@@ -5,8 +5,6 @@ def main():
     print array
     new_array = array[[2, 4]]
     print new_array
-    #b = a[[2, 4]]
-    #print b
-
+   
 if __name__ == '__main__':
     main()
